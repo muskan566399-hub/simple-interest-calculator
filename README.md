@@ -1,1 +1,1 @@
-# simple-interest-calculator
+# github-final-project
